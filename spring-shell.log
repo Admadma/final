@@ -269,3 +269,52 @@
 1638773327779:list screenings
 1638774586025:sign in privileged admin admin
 1638774592038:describe account
+1638812162744:create movie "asd" asd 10
+1638812166073:list movies
+1638812176226:sign in privileged admin admin
+1638812180807:create movie "asd" asd 10
+1638812183728:list movies
+1638813541954:sign in privileged admin admin
+1638813552399:create movie "asd asd" asd 10
+1638813556099:list movies
+1638813570487:update movie "asd asd" sad 20
+1638813573213:list movies
+1638813587685:update movie "asd" asd 10
+1638813591431:list movies
+1638813662789:sign in privileged amin admin
+1638813676453:sign in privileged admin admin
+1638813682917:create movie asd asd 10
+1638813692792:update movie sad sad 20
+1638813695937:list movies
+1638813769608:sign in privileged admin admin
+1638813775757:create movie asd asd 10
+1638813785255:update movie sad sad 20
+1638813792147:update movie asd sad 20
+1638813795152:list movies
+1638821660961:sign in privileged admin admin
+1638821674167:create room Aasd 10 10
+1638821686130:update room asd 20 20
+1638821693336:update room Asd 20 20
+1638821702034:update room Aasd 20 20
+1638821705128:list rooms
+1638821713671:delete room Aasd
+1638821719134:list rooms
+1638823716062:sign in privileged admin admin
+1638823726852:create movie "Spirited Away" animation 125list movies
+1638823733769:create movie "Spirited Away" animation 125
+1638823736487:list movies
+1638823744176:create room Pedersoli 10 10
+1638823762051:create screening "Spirited Away" Pedersoli "2021-03-15 10:00"
+1638823771325:create screening "Spirited Away" Pedersoli "2021-03-15 12:00"
+1638823777688:create screening "Spirited Away" Pedersoli "2021-03-15 12:05"
+1638823784730:create screening "Spirited Away" Pedersoli "2021-03-15 12:15"
+1638823790196:list screenings
+1638823835575:delete screening "Spirited Away" Pedersoli2021-03-15 12:15
+1638823884782:sign in privileged admin admin
+1638823891195:create movie "Spirited Away" animation 125
+1638823898966:create room Girotti 20 20
+1638823911083:create screening "Spirited Away" Pedersoli "2021-03-14 16:00"
+1638823921722:create screening "Spirited Away" Girotti "2021-03-15 10:50"
+1638823928417:list screenings
+1638823953473:delete screening "Spirited Away" Girotti "2021-03-15 10:50"
+1638823958074:list screenings

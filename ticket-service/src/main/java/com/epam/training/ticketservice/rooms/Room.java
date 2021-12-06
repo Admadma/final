@@ -12,6 +12,15 @@ public class Room {
     private int numbOfRows;
     private int numOfColumns;
 
+    public Room(String name, int numbOfRows, int numOfColumns) {
+        this.name = name;
+        this.numbOfRows = numbOfRows;
+        this.numOfColumns = numOfColumns;
+    }
+
+    public Room() {
+    }
+
     public String getName() {
         return name;
     }

@@ -3,11 +3,10 @@ package com.epam.training.ticketservice;
 import com.epam.training.ticketservice.accounts.Account;
 import com.epam.training.ticketservice.accounts.AccountController;
 import com.epam.training.ticketservice.accounts.AccountService;
-import com.epam.training.ticketservice.movies.MovieService;
-import com.epam.training.ticketservice.rooms.RoomService;
-import com.epam.training.ticketservice.screenings.Screeningservice;
+import com.epam.training.ticketservice.movies.MovieServiceImpl;
+import com.epam.training.ticketservice.rooms.RoomServiceImpl;
+import com.epam.training.ticketservice.screenings.ScreeningServiceImpl;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.context.ConfigurableApplicationContext;
 import org.springframework.shell.standard.ShellComponent;
 import org.springframework.shell.standard.ShellMethod;
 import org.springframework.shell.standard.ShellOption;
@@ -15,24 +14,20 @@ import org.springframework.shell.standard.ShellOption;
 import javax.annotation.PostConstruct;
 import java.util.Objects;
 
-
 @ShellComponent
 public class ShellManager {
 
     @Autowired
-    MovieService movieService;
+    MovieServiceImpl movieServiceImpl;
     @Autowired
-    RoomService roomService;
+    RoomServiceImpl roomServiceImpl;
     @Autowired
     AccountService accountService;
     @Autowired
-    Screeningservice screeningservice;
+    ScreeningServiceImpl screeningserviceImpl;
 
     @Autowired
     AccountController accountController;
-
-    @Autowired
-    ConfigurableApplicationContext context;
 
     private Account currentUser = null;
 
@@ -68,13 +63,13 @@ public class ShellManager {
         if(!Objects.isNull(currentUser) && currentUser.isPrivileged()){
             switch (params[0]) {
                 case "movie":
-                    movieService.createMovie(params);
+                    movieServiceImpl.addMovie(params[1], params[2], Integer.valueOf(params[3]));
                     break;
                 case "room":
-                    roomService.createRoom(params);
+                    roomServiceImpl.addRoom(params[1], Integer.valueOf(params[2]), Integer.valueOf(params[3]));
                     break;
                 case "screening":
-                    screeningservice.createScreening(params);
+                    screeningserviceImpl.addScreening(params[1], params[2], params[3]);
                     break;
             }
         }
@@ -85,10 +80,10 @@ public class ShellManager {
         if(!Objects.isNull(currentUser) && currentUser.isPrivileged()) {
             switch (params[0]) {
                 case "movie":
-                    movieService.deleteMovie(params[1]);
+                    movieServiceImpl.deleteMovie(params[1]);
                     break;
                 case "room":
-                    roomService.deleteRoom(params[1]);
+                    roomServiceImpl.deleteRoom(params[1]);
                     break;
             }
         }
@@ -96,7 +91,7 @@ public class ShellManager {
 
     @ShellMethod(value="Delete a screening", key="delete screening")
     public void deleteScreening(@ShellOption(arity=3)String[] params){
-        screeningservice.deleteScreening(params);
+        screeningserviceImpl.deleteScreening(params[0], params[1], params[2]);
     }
 
     @ShellMethod("update")
@@ -104,10 +99,10 @@ public class ShellManager {
         if(!Objects.isNull(currentUser) && currentUser.isPrivileged()) {
             switch (params[0]) {
                 case "movie":
-                    movieService.updateMovie(params);
+                    movieServiceImpl.updateMovie(params[1], params[2], Integer.valueOf(params[3]));
                     break;
                 case "room":
-                    roomService.updateRoom(params);
+                    roomServiceImpl.updateRoom(params[1], Integer.valueOf(params[2]), Integer.valueOf(params[3]));
                     break;
             }
         }
@@ -117,13 +112,13 @@ public class ShellManager {
     public void list(String target){
         switch (target){
             case "movies":
-                movieService.listMovies();
+                movieServiceImpl.listMovies();
                 break;
             case "rooms":
-                roomService.listRooms();
+                roomServiceImpl.listRooms();
                 break;
             case "screenings":
-                screeningservice.listScreenings();
+                screeningserviceImpl.listScreenings();
                 break;
         }
     }
