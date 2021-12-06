@@ -1,0 +1,271 @@
+1638665228425:asd
+1638665383537:create
+1638665411117:create alma
+1638665414401:create alma fa
+1638665481756:create alma
+1638665487220:create alma fa
+1638665531031:create alma
+1638665534860:create alma fa
+1638665776282:create fa
+1638665779872:create alma
+1638665783009:creae almafa
+1638665789359:create alma fa
+1638665810703:create "alma fa"
+1638666674849:create a b
+1638667210966:square
+1638667222926:square -input 1 2 3 4 5
+1638667231567:square -input 1 2 3 4 5 -message "Square of a number %d is %d"
+1638667329012:create
+1638667336644:create a b
+1638667352882:create a
+1638667356450:create a b
+1638667427795:create a b c d e
+1638667539257:a "b c" d e f
+1638667555057:create a "b c" d e f
+1638667702302:create movie "Sprited Away" animation 125
+1638668283826:asd a b c
+1638669144052:create movie "Sprited Away" animation 125
+1638669260912:list movies
+1638671136992:create movie "Sprited Away" animation 125
+1638671140711:list movies
+1638671154527:delete movie "Spirited Away"
+1638671190940:create movie "Sprited Away" animation 125
+1638671196448:list movies
+1638671207792:delete movie "Spirited Away"
+1638671246300:delete movie "Sprited Away"
+1638671249457:list movies
+1638673317397:create movie "Sprited Away" animation 125
+1638673323179:list movies
+1638673407712:create movie "Sprited Away" animation 125
+1638673411077:list mvies
+1638673414141:list movies
+1638673440113:create movie Sátántangó drama 450
+1638673443725:list movies
+1638673541899:create movie Sátántangó drama 450
+1638673547635:list movies
+1638674647405:create room Pedersoli 20 10
+1638674694497:list rooms
+1638675142876:exit
+1638679369500:sign out
+1638679386081:sign in
+1638679476760:sign in privileged admin admin
+1638682242144:create movie "Sprited Away" animation 125
+1638727850275:exit
+1638727955412:create movie asd asd asd 10
+1638727967065:create movie asd asd 10
+1638727972030:list movies
+1638727990244:describe account
+1638728004461:sign in admin admin
+1638728030171:sign in privileged admin admin
+1638728768528:aaasd
+1638728953758:exit
+1638734779097:testTimeStamps
+1638734812320:time
+1638739273019:create screening "Spirited Away" Pedersoli "2021-03-14 16:00"
+1638739324608:create screening asd
+1638739395883:create screening 1 2 3 4
+1638739405438:create screening 1 2 3
+1638739482381:create room
+1638739491486:create room 1 2 3
+1638739558735:sign in privileged admin admin
+1638739964915:a
+1638740147731:sign in privileged admin admin
+1638740152862:describe account
+1638740409716:create screening "Spirited Away" Pedersoli "2021-03-14 16:00"
+1638740441675:describe account
+1638740448560:sign in privileged admin admin
+1638740453986:describe account
+1638740457640:sign out
+1638740463337:describe account
+1638740471203:sign in privileged admin admin
+1638740485867:create movie "Sprited Away" animation 125
+1638740536521:create room Pedersoli 10 10
+1638740545270:create screening "Spirited Away" Pedersoli "2021-03-14 16:00"
+1638740559982:create movie "Spirited Away" animation 125
+1638740562865:list movies
+1638740570448:create screening "Spirited Away" Pedersoli "2021-03-14 16:00"
+1638740580585:list screenings
+1638741653138:create movie "Spirited Away" animation 125
+1638741658560:create room Pedersoli 10 10
+1638741663675:create screening "Spirited Away" Pedersoli "2021-03-14 16:00"
+1638741668621:list screenings
+1638741732227:create movie "Spirited Away" animation 125
+1638741736723:create room Pedersoli 10 10
+1638741744433:create screening "Spirited Away" Pedersoli "2021-03-14 16:00"
+1638741753281:sign in privileged admin admin
+1638741759940:create movie "Spirited Away" animation 125
+1638741765220:create room Pedersoli 10 10
+1638741771289:create screening "Spirited Away" Pedersoli "2021-03-14 16:00"
+1638741778492:list screenings
+1638742200660:create screening "Spirited Away" Pedersoli "2021-03-14 16:00"
+1638742207050:list screenings
+1638742310752:create screening "Spirited Away" Pedersoli "2021-03-14 16:00"
+1638742316474:list screenings
+1638742348919:create screening "Spirited Away" Pedersoli "2021-03-14 16:00"
+1638742355383:list screenings
+1638742383444:create screening "Spirited Away" Pedersoli "2021-03-14 16:00"
+1638742388893:list screenings
+1638742541574:create screening "Spirited Away" Pedersoli "2021-03-14 16:00"
+1638742547045:LIST SCREENINGS
+1638742550437:list screenings
+1638742579944:create screening "Spirited Away" Pedersoli "2021-03-14 16:00"
+1638742584223:list screenings
+1638742632414:create screening "Spirited Away" Pedersoli "2021-03-14 16:00"
+1638742636076:list screenings
+1638742715297:create screening "Spirited Away" Pedersoli "2021-03-14 16:00"
+1638742995157:list screenings
+1638743036020:create screening "Spirited Away" Pedersoli "2021-03-14 16:00"
+1638743042416:list screenings
+1638743075046:create screening "Spirited Away" Pedersoli "2021-03-14 16:00"
+1638743079627:list screenings
+1638743172322:create screening "Spirited Away" Pedersoli "2021-03-14 16:00"
+1638743182645:list screenings
+1638743619103:create screening "Spirited Away" Pedersoli "2021-03-14 16:00"
+1638743925722:list screenings
+1638743973609:create screening "Spirited Away" Pedersoli "2021-03-14 16:00"
+1638746550365:YYYY-MM-DD hh:mm
+1638746555018:create screening "Spirited Away" Pedersoli "2021-03-14 16:00"
+1638746783207:list screenings
+1638746846234:create screening "Spirited Away" Pedersoli "2021-03-14 16:00"
+1638746850602:list screenings
+1638747194396:create screening "Spirited Away" Pedersoli "2021-03-14 16:00"
+1638747278474:SimpleDateFormat sdf=new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
+1638747286411:create screening "Spirited Away" Pedersoli "2021-03-14 16:00"
+1638747604181:list screenings
+1638749220121:time
+1638753075954:create screening "Spirited Away" Pedersoli "2021-03-14 16:00"
+1638753092728:sign in privileged admin admin
+1638753097611:create screening "Spirited Away" Pedersoli "2021-03-14 16:00"
+1638753101434:list screenings
+1638753123253:create screening "Spirited Away" Pedersoli "2021-03-14 17:00"
+1638753135040:list screenings
+1638753186429:create screening "Spirited Away" Pedersoli "2021-03-14 16:00"
+1638753190396:create screening "Spirited Away" Pedersoli "2021-03-14 17:00"
+1638753252099:create screening "Spirited Away" Pedersoli "2021-03-14 16:00"
+1638753255993:create screening "Spirited Away" Pedersoli "2021-03-14 17:00"
+1638753280688:create screening "Spirited Away" Pedersoli "2021-03-14 16:00"
+1638753285276:create screening "Spirited Away" Pedersoli "2021-03-14 17:00"
+1638753317992:create screening "Spirited Away" Pedersoli "2021-03-14 16:00"
+1638753321676:create screening "Spirited Away" Pedersoli "2021-03-14 17:00"
+1638753325998:create screening "Spirited Away" Pedersoli "2021-03-14 15:00"
+1638754849201:create screening "Spirited Away" Pedersoli "2021-03-14 16:00"
+1638754860257:create screening "Spirited Away" Pedersoli "2021-03-14 18:05"
+1638754871367:create screening "Spirited Away" Pedersoli "2021-03-14 18:04"
+1638754881651:create screening "Spirited Away" Pedersoli "2021-03-14 18:06"
+1638754888222:create screening "Spirited Away" Pedersoli "2021-03-14 18:15"
+1638754893766:list screenings
+1638754912525:create screening "Spirited Away" Pedersoli "2021-03-14 13:55"
+1638754927286:create screening "Spirited Away" Pedersoli "2021-03-14 13:54"
+1638754931077:create screening "Spirited Away" Pedersoli "2021-03-14 13:45"
+1638754935135:list screenings
+1638756545981:create screening "Spirited Away" Pedersoli "2021-03-14 16:00"
+1638756562228:create screening "Spirited Away" Pedersoli "2021-03-14 18:05"
+1638756569214:create screening "Spirited Away" Pedersoli "2021-03-14 18:15"
+1638756572824:list screenings
+1638756713303:create screening "Spirited Away" Pedersoli "2021-03-14 16:00"
+1638756717703:list screenings
+1638756723186:create screening "Spirited Away" Pedersoli "2021-03-14 18:15"
+1638756728269:create screening "Spirited Away" Pedersoli "2021-03-14 11:00"
+1638756732374:list screenings
+1638756764733:screening "Spirited Away" Pedersoli "2021-03-14 16:00"e
+1638756782506:delete screening "Spirited Away" Pedersoli "2021-03-14 16:00"
+1638756827610:sign in privileged admin admin
+1638756838711:delete screening "Spirited Away" Pedersoli "2021-03-14 16:00"
+1638757043505:create screening "Spirited Away" Pedersoli "2021-03-14 16:00"
+1638757052613:delete screening "Spirited Away" Pedersoli "2021-03-14 16:00"
+1638757058350:list screenings
+1638757101720:create screening "Spirited Away" Pedersoli "2021-03-14 16:00"
+1638757109604:delete screening "Spirited Away" Pedersoli "2021-03-14 16:00"
+1638757115426:list screenings
+1638757216453:create screening "Spirited Away" Pedersoli "2021-03-14 16:00"
+1638757224842:delete screening "Spirited Away" Pedersoli "2021-03-14 16:00"
+1638757236446:list screenings
+1638757273271:create screening "Spirited Away" Pedersoli "2021-03-14 16:00"
+1638757282236:delete screening "Spirited Away" Pedersoli "2021-03-14 16:00"
+1638757325385:create screening "Spirited Away" Pedersoli "2021-03-14 16:00"
+1638757333533:delete screening "Spirited Away" Pedersoli "2021-03-14 16:00"
+1638757523207:create screening "Spirited Away" Pedersoli "2021-03-14 16:00"
+1638757537694:delete screening "Spirited Away" Pedersoli "2021-03-14 16:00"
+1638757643028:create screening "Spirited Away" Pedersoli "2021-03-14 16:00"
+1638757651221:delete screening "Spirited Away" Pedersoli "2021-03-14 16:00"
+1638757660800:list screenings
+1638762127052:create screening "Spirited Away" Pedersoli "2021-03-14 16:00"
+1638764500673:delete screening "Spirited Away" Pedersoli "2021-03-14 16:00"
+1638764505447:list screenings
+1638764513140:create screening "Spirited Away" Pedersoli "2021-03-14 17:00"
+1638764601505:create screening "Spirited Away" Pedersoli "2021-03-14 16:00"
+1638764609464:delete screening "Spirited Away" Pedersoli "2021-03-14 16:00"
+1638765075981:create screening "Spirited Away" Pedersoli "2021-03-14 16:00"
+1638765093413:delete screening "Spirited Away" Pedersoli "2021-03-14 16:00"
+1638765157553:create screening "Spirited Away" Pedersoli "2021-03-14 16:00"
+1638765164435:delete screening "Spirited Away" Pedersoli "2021-03-14 16:00"
+1638765585085:create screening "Spirited Away" Pedersoli "2021-03-14 16:00"
+1638765591532:delete screening "Spirited Away" Pedersoli "2021-03-14 16:00"
+1638765750837:create screening "Spirited Away" Pedersoli "2021-03-14 16:00"
+1638765759677:delete screening "Spirited Away" Pedersoli "2021-03-14 16:00"
+1638765821514:create screening "Spirited Away" Pedersoli "2021-03-14 16:00"
+1638765829141:delete screening "Spirited Away" Pedersoli "2021-03-14 16:00"
+1638765834392:list screenings
+1638766121894:create screening "Spirited Away" Pedersoli "2021-03-14 16:00"
+1638766132205:create screening "Spirited Away" Pedersoli "2021-03-14 18:05"
+1638766138211:create screening "Spirited Away" Pedersoli "2021-03-14 18:15"
+1638766142359:list screenings
+1638766151108:delete screening "Spirited Away" Pedersoli "2021-03-14 16:00"
+1638766155338:list screenings
+1638766819691:sign in privileged admin admin
+1638766827096:create screening "Spirited Away" Pedersoli "2021-03-14 16:00"
+1638766831688:list screenings
+1638766840371:delete screening "Spirited Away" Pedersoli "2021-03-14 16:00"
+1638766844611:list screenings
+1638769494546:sign in privileged admin admin
+1638769524998:create movie Sátántangó drama 450
+1638769528321:list movies
+1638769552663:create movie "Spirited Away" animation 125
+1638769556379:list movies
+1638769572315:create room Pedersoli 10 10
+1638769584539:create room Girotti 20 20
+1638769587403:list rooms
+1638769638266:create screening "Spirited Away" Girotti "2021-03-15 10:50"
+1638769716534:create screening Sátántangó Girotti "2021-03-15 10:45"
+1638769739771:create screening Sátántangó Pedersoli "2021-03-15 10:45"
+1638769743935:list screenings
+1638770233090:sign in privileged admin admin
+1638770234377:create movie Sátántangó drama 450
+1638770239356:create movie "Spirited Away" animation 125
+1638770243790:create room Pedersoli 10 10
+1638770249176:create room Girotti 20 20
+1638770315827:create screening Sátántangó Pedersoli "2021-03-15 10:45"
+1638770326051:create screening "Spirited Away" Pedersoli "2021-03-14 16:00"
+1638770330868:list screenings
+1638771692362:sign in privileged admin admin
+1638771694527:create movie Sátántangó drama 450
+1638771699355:create movie "Spirited Away" animation 125
+1638771703990:create room Pedersoli 10 10
+1638771712260:create room Girotti 20 20
+1638771721214:create screening Sátántangó Pedersoli "2021-03-15 10:45"
+1638771726731:create screening "Spirited Away" Pedersoli "2021-03-14 16:00"
+1638771730527:list screenings
+1638771813208:sign in privileged admin admin
+1638771814307:create movie Sátántangó drama 450
+1638771821086:create movie "Spirited Away" animation 125
+1638771825918:create room Pedersoli 10 10
+1638771829928:create room Girotti 20 20
+1638771834157:create screening Sátántangó Pedersoli "2021-03-15 10:45"
+1638771838975:create screening "Spirited Away" Pedersoli "2021-03-14 16:00"
+1638771843487:list screenings
+1638771986585:create movie Sátántangó drama 450
+1638771993827:create movie "Spirited Away" animation 125
+1638771997993:create room Pedersoli 10 10
+1638772002384:create room Girotti 20 20
+1638772007802:create screening Sátántangó Pedersoli "2021-03-15 10:45"
+1638772012485:create screening "Spirited Away" Pedersoli "2021-03-14 16:00"
+1638772016533:list screenings
+1638773245966:sign in privileged admin admin
+1638773265409:create movie "Spirited Away" animation 125
+1638773274631:create room Pedersoli 10 10
+1638773305584:create screening "Spirited Away" Pedersoli "2021-03-14 16:00"
+1638773309572:list screenings
+1638773322768:delete screening "Spirited Away" Pedersoli "2021-03-14 16:00"
+1638773327779:list screenings
+1638774586025:sign in privileged admin admin
+1638774592038:describe account

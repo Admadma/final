@@ -1,20 +1,22 @@
 package com.epam.training.ticketservice;
 
+import org.jline.utils.AttributedString;
+import org.jline.utils.AttributedStyle;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.RequestParam;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.context.annotation.Bean;
+import org.springframework.shell.jline.PromptProvider;
 
 @SpringBootApplication
-@RestController
 public class Application {
     public static void main(String[] args) {
         SpringApplication.run(Application.class, args);
+        System.exit(0);
     }
 
-    @GetMapping("/hello")
-    public String sayHello(@RequestParam(value = "myName", defaultValue = "World") String name){
-        return String.format("Hello %s!", name);
+    @Bean
+    public PromptProvider myPromptProvider() {
+        return () -> new AttributedString("Ticket service>", AttributedStyle.DEFAULT.foreground(AttributedStyle.YELLOW));
     }
+
 }

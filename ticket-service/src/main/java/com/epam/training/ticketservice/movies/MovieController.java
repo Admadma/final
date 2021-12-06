@@ -9,13 +9,12 @@ public class MovieController {
     @Autowired
     private MovieRepository movieRepository;
 
-    public String addMovie(String title, String genre, int length){
+    public void addMovie(String title, String genre, int length){
         Movie movie = new Movie();
         movie.setTitle(title);
         movie.setGenre(genre);
         movie.setLength(length);
         movieRepository.save(movie);
-        return "Added new movie to repo!";
     }
 
     public Iterable<Movie> getMovies(){
@@ -24,5 +23,9 @@ public class MovieController {
 
     public Movie findMovieByTitle(String title){
         return movieRepository.findMovieByTitle(title);
+    }
+
+    public void deleteMovie(String id){
+        movieRepository.deleteById(id);
     }
 }

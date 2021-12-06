@@ -1,2 +1,10 @@
-package com.epam.training.ticketservice.screenings;public interface ScreeningRepository {
+package com.epam.training.ticketservice.screenings;
+
+import org.springframework.data.repository.CrudRepository;
+import org.springframework.transaction.annotation.Transactional;
+
+public interface ScreeningRepository extends CrudRepository<Screening, String> {
+
+    @Transactional
+    void deleteScreeningById(ScreeningId id);
 }
