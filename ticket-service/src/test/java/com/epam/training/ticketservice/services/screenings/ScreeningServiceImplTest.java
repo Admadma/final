@@ -87,7 +87,6 @@ class ScreeningServiceImplTest {
 
     }
 
-    //ez a jo
     @Test
     public void isTimeSlotFreeShouldReturnFalseIfNewMovieStartsBeforeExistingMovieStartsAndNewMovieEndsAfterExistingMovieStarts(){
         //Given
