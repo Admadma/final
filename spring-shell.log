@@ -318,3 +318,29 @@
 1638823928417:list screenings
 1638823953473:delete screening "Spirited Away" Girotti "2021-03-15 10:50"
 1638823958074:list screenings
+1639089362093:create movie "Sasd" animation 10
+1639089365000:list movies
+1639089412655:sign in privileged admin admin
+1639089417639:describe account
+1639089517435:create movie "asd" asd 10
+1639089521035:list movies
+1639090387507:sign in privileged admin admin
+1639090395058:create movie "sad" asd 1
+1639090398343:list movies
+1639095164218:sign in privileged admin admin
+1639095168160:describe account
+1639228531342:create movie film genre 60
+1639228540907:create room szoba 10 10
+1639228548558:sign in privileged admin admin
+1639228551250:list rooms
+1639228556621:create movie film genre 60
+1639228562286:create room szoba 10 10
+1639228565200:list rooms
+1639228567727:list movies
+1639228615345:create screening film szoba "2021-03-14 16:00"
+1639228620407:list screenings
+1639228682602:create screening film szoba "2021-03-14 15:30"
+1639228702396:reate screening film szoba "2021-03-14 16:30"
+1639228706089:create screening film szoba "2021-03-14 16:00"
+1639228710742:create screening film szoba "2021-03-14 16:30"
+1639228744305:create screening film szoba "2021-03-14 15:00"

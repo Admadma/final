@@ -1730,3 +1730,389 @@
 1638828551418:create screening "Spirited Away" Pedersoli "2021-03-14 16:00"
 1638828551703:delete screening "Spirited Away" Pedersoli "2021-03-14 16:00"
 1638828551946:list screenings
+1639184652757:sign in privileged admin admin
+1639184652999:describe account
+1639184659661:sign in privileged admin admin
+1639184659901:sign out
+1639184660167:describe account
+1639184668128:sign in privileged admin asdQWE123
+1639184668566:describe account
+1639184676164:sign in privileged admin admin
+1639184676404:create movie Sátántangó drama 450
+1639184676653:list movies
+1639184684123:sign in privileged admin admin
+1639184684385:create movie Sátántangó dram 450
+1639184684643:update movie Sátántangó drama 450
+1639184684892:list movies
+1639184691366:sign in privileged admin admin
+1639184691627:create movie Sátántangó drama 450
+1639184691892:delete movie Sátántangó
+1639184692146:list movies
+1639184699528:sign in privileged admin admin
+1639184699766:create movie Sátántangó drama 450
+1639184700018:sign out
+1639184700282:list movies
+1639184707917:sign in privileged admin admin
+1639184708167:create room Pedersoli 20 10
+1639184708421:list rooms
+1639184715257:sign in privileged admin admin
+1639184715507:create room Pedersoli 20 10
+1639184715773:update room Pedersoli 10 10
+1639184716029:list rooms
+1639184722783:sign in privileged admin admin
+1639184723033:create room Pedersoli 20 10
+1639184723284:delete room Pedersoli
+1639184723547:list rooms
+1639184729990:sign in privileged admin admin
+1639184730239:create room Pedersoli 20 10
+1639184730496:sign out
+1639184730756:list rooms
+1639184737614:sign in privileged admin admin
+1639184737866:create room Pedersoli 20 10
+1639184738136:create room Girotti 10 10
+1639184738405:create movie Sátántangó drama 450
+1639184738670:create movie "Spirited Away" animation 125
+1639184738924:sign out
+1639184739193:sign in privileged admin admin
+1639184739458:create screening Sátántangó Pedersoli "2021-03-15 10:45"
+1639184739734:create screening "Spirited Away" Pedersoli "2021-03-14 16:00"
+1639184739980:list screenings
+1639184747443:sign in privileged admin admin
+1639184747692:create room Pedersoli 20 10
+1639184747955:create room Girotti 10 10
+1639184748232:create movie Sátántangó drama 450
+1639184748487:create movie "Spirited Away" animation 125
+1639184748747:sign out
+1639184749006:sign in privileged admin admin
+1639184749268:create screening Sátántangó Pedersoli "2021-03-15 10:45"
+1639184749522:create screening "Spirited Away" Pedersoli "2021-03-15 10:50"
+1639184749783:list screenings
+1639184757037:sign in privileged admin admin
+1639184757274:create room Pedersoli 20 10
+1639184757546:create room Girotti 10 10
+1639184757790:create movie Sátántangó drama 450
+1639184758056:create movie "Spirited Away" animation 125
+1639184758317:sign out
+1639184758587:sign in privileged admin admin
+1639184758854:create screening Sátántangó Pedersoli "2021-03-15 10:45"
+1639184759102:create screening "Spirited Away" Girotti "2021-03-15 10:50"
+1639184759364:list screenings
+1639184768119:sign in privileged admin admin
+1639184768369:create room Pedersoli 20 10
+1639184768619:create room Girotti 10 10
+1639184768883:create movie Sátántangó drama 450
+1639184769136:create movie "Spirited Away" animation 125
+1639184769385:sign out
+1639184769652:sign in privileged admin admin
+1639184769921:create screening Sátántangó Pedersoli "2021-03-15 11:00"
+1639184770172:create screening "Spirited Away" Pedersoli "2021-03-15 18:39"
+1639184770433:list screenings
+1639184778208:sign in privileged admin admin
+1639184778458:create room Pedersoli 20 10
+1639184778713:create room Girotti 10 10
+1639184778969:create movie Sátántangó drama 450
+1639184779248:create movie "Spirited Away" animation 125
+1639184779484:sign out
+1639184779750:sign in privileged admin admin
+1639184780012:create screening Sátántangó Pedersoli "2021-03-15 11:00"
+1639184780285:create screening "Spirited Away" Girotti "2021-03-15 18:39"
+1639184780531:list screenings
+1639184787026:sign in privileged admin admin
+1639184787278:create room Pedersoli 20 10
+1639184787538:create room Girotti 10 10
+1639184787790:create movie Sátántangó drama 450
+1639184788054:create movie "Spirited Away" animation 125
+1639184788314:sign out
+1639184788569:sign in privileged admin admin
+1639184788835:create screening "Spirited Away" Pedersoli "2021-03-14 16:00"
+1639184789085:delete screening "Spirited Away" Pedersoli "2021-03-14 16:00"
+1639184789346:list screenings
+1639184839322:sign in privileged admin admin
+1639184839569:describe account
+1639184847920:sign in privileged admin admin
+1639184848168:sign out
+1639184848441:describe account
+1639184854718:sign in privileged admin asdQWE123
+1639184855140:describe account
+1639184862140:sign in privileged admin admin
+1639184862391:create movie Sátántangó drama 450
+1639184862640:list movies
+1639184869189:sign in privileged admin admin
+1639184869445:create movie Sátántangó dram 450
+1639184869709:update movie Sátántangó drama 450
+1639184869963:list movies
+1639184876607:sign in privileged admin admin
+1639184876861:create movie Sátántangó drama 450
+1639184877114:delete movie Sátántangó
+1639184877365:list movies
+1639184886142:sign in privileged admin admin
+1639184886404:create movie Sátántangó drama 450
+1639184886656:sign out
+1639184886912:list movies
+1639184893542:sign in privileged admin admin
+1639184893787:create room Pedersoli 20 10
+1639184894038:list rooms
+1639184902271:sign in privileged admin admin
+1639184902517:create room Pedersoli 20 10
+1639184902768:update room Pedersoli 10 10
+1639184903018:list rooms
+1639184909573:sign in privileged admin admin
+1639184909824:create room Pedersoli 20 10
+1639184910079:delete room Pedersoli
+1639184910328:list rooms
+1639184916732:sign in privileged admin admin
+1639184916968:create room Pedersoli 20 10
+1639184917221:sign out
+1639184917470:list rooms
+1639184926108:sign in privileged admin admin
+1639184926363:create room Pedersoli 20 10
+1639184926607:create room Girotti 10 10
+1639184926859:create movie Sátántangó drama 450
+1639184927114:create movie "Spirited Away" animation 125
+1639184927360:sign out
+1639184927618:sign in privileged admin admin
+1639184927876:create screening Sátántangó Pedersoli "2021-03-15 10:45"
+1639184928139:create screening "Spirited Away" Pedersoli "2021-03-14 16:00"
+1639184928388:list screenings
+1639184936707:sign in privileged admin admin
+1639184936950:create room Pedersoli 20 10
+1639184937211:create room Girotti 10 10
+1639184937480:create movie Sátántangó drama 450
+1639184937736:create movie "Spirited Away" animation 125
+1639184937982:sign out
+1639184938238:sign in privileged admin admin
+1639184938504:create screening Sátántangó Pedersoli "2021-03-15 10:45"
+1639184938760:create screening "Spirited Away" Pedersoli "2021-03-15 10:50"
+1639184939022:list screenings
+1639184946452:sign in privileged admin admin
+1639184946698:create room Pedersoli 20 10
+1639184946958:create room Girotti 10 10
+1639184947214:create movie Sátántangó drama 450
+1639184947492:create movie "Spirited Away" animation 125
+1639184947741:sign out
+1639184948007:sign in privileged admin admin
+1639184948259:create screening Sátántangó Pedersoli "2021-03-15 10:45"
+1639184948540:create screening "Spirited Away" Girotti "2021-03-15 10:50"
+1639184948782:list screenings
+1639184955115:sign in privileged admin admin
+1639184955351:create room Pedersoli 20 10
+1639184955605:create room Girotti 10 10
+1639184955853:create movie Sátántangó drama 450
+1639184956131:create movie "Spirited Away" animation 125
+1639184956378:sign out
+1639184956642:sign in privileged admin admin
+1639184956911:create screening Sátántangó Pedersoli "2021-03-15 11:00"
+1639184957152:create screening "Spirited Away" Pedersoli "2021-03-15 18:39"
+1639184957423:list screenings
+1639184963554:sign in privileged admin admin
+1639184963804:create room Pedersoli 20 10
+1639184964061:create room Girotti 10 10
+1639184964321:create movie Sátántangó drama 450
+1639184964586:create movie "Spirited Away" animation 125
+1639184964845:sign out
+1639184965108:sign in privileged admin admin
+1639184965363:create screening Sátántangó Pedersoli "2021-03-15 11:00"
+1639184965630:create screening "Spirited Away" Girotti "2021-03-15 18:39"
+1639184965891:list screenings
+1639184972344:sign in privileged admin admin
+1639184972589:create room Pedersoli 20 10
+1639184972842:create room Girotti 10 10
+1639184973106:create movie Sátántangó drama 450
+1639184973386:create movie "Spirited Away" animation 125
+1639184973618:sign out
+1639184973881:sign in privileged admin admin
+1639184974142:create screening "Spirited Away" Pedersoli "2021-03-14 16:00"
+1639184974415:delete screening "Spirited Away" Pedersoli "2021-03-14 16:00"
+1639184974648:list screenings
+1639237642291:sign in privileged admin admin
+1639237642551:describe account
+1639237648590:sign in privileged admin admin
+1639237648836:sign out
+1639237649087:describe account
+1639237655373:sign in privileged admin asdQWE123
+1639237655799:describe account
+1639237661982:sign in privileged admin admin
+1639237662231:create movie Sátántangó drama 450
+1639237662481:list movies
+1639237668492:sign in privileged admin admin
+1639237668749:create movie Sátántangó dram 450
+1639237669011:update movie Sátántangó drama 450
+1639237669263:list movies
+1639237675149:sign in privileged admin admin
+1639237675402:create movie Sátántangó drama 450
+1639237675652:delete movie Sátántangó
+1639237675918:list movies
+1639237682292:sign in privileged admin admin
+1639237682544:create movie Sátántangó drama 450
+1639237682797:sign out
+1639237683056:list movies
+1639237690671:sign in privileged admin admin
+1639237690933:create room Pedersoli 20 10
+1639237691187:list rooms
+1639237698173:sign in privileged admin admin
+1639237698436:create room Pedersoli 20 10
+1639237698693:update room Pedersoli 10 10
+1639237698942:list rooms
+1639237706434:sign in privileged admin admin
+1639237706696:create room Pedersoli 20 10
+1639237706945:delete room Pedersoli
+1639237707214:list rooms
+1639237714183:sign in privileged admin admin
+1639237714431:create room Pedersoli 20 10
+1639237714694:sign out
+1639237714945:list rooms
+1639237720964:sign in privileged admin admin
+1639237721224:create room Pedersoli 20 10
+1639237721488:create room Girotti 10 10
+1639237721742:create movie Sátántangó drama 450
+1639237722023:create movie "Spirited Away" animation 125
+1639237722260:sign out
+1639237722525:sign in privileged admin admin
+1639237722786:create screening Sátántangó Pedersoli "2021-03-15 10:45"
+1639237723038:create screening "Spirited Away" Pedersoli "2021-03-14 16:00"
+1639237723291:list screenings
+1639237729535:sign in privileged admin admin
+1639237729782:create room Pedersoli 20 10
+1639237730047:create room Girotti 10 10
+1639237730325:create movie Sátántangó drama 450
+1639237730581:create movie "Spirited Away" animation 125
+1639237730827:sign out
+1639237731097:sign in privileged admin admin
+1639237731375:create screening Sátántangó Pedersoli "2021-03-15 10:45"
+1639237731626:create screening "Spirited Away" Pedersoli "2021-03-15 10:50"
+1639237737682:sign in privileged admin admin
+1639237737940:create room Pedersoli 20 10
+1639237738200:create room Girotti 10 10
+1639237738445:create movie Sátántangó drama 450
+1639237738714:create movie "Spirited Away" animation 125
+1639237738954:sign out
+1639237739206:sign in privileged admin admin
+1639237739460:create screening Sátántangó Pedersoli "2021-03-15 10:45"
+1639237739726:create screening "Spirited Away" Girotti "2021-03-15 10:50"
+1639237739992:list screenings
+1639237746530:sign in privileged admin admin
+1639237746774:create room Pedersoli 20 10
+1639237747039:create room Girotti 10 10
+1639237747303:create movie Sátántangó drama 450
+1639237747557:create movie "Spirited Away" animation 125
+1639237747822:sign out
+1639237748085:sign in privileged admin admin
+1639237748360:create screening Sátántangó Pedersoli "2021-03-15 11:00"
+1639237748623:create screening "Spirited Away" Pedersoli "2021-03-15 18:39"
+1639237755497:sign in privileged admin admin
+1639237755741:create room Pedersoli 20 10
+1639237756017:create room Girotti 10 10
+1639237756260:create movie Sátántangó drama 450
+1639237756525:create movie "Spirited Away" animation 125
+1639237756773:sign out
+1639237757044:sign in privileged admin admin
+1639237757323:create screening Sátántangó Pedersoli "2021-03-15 11:00"
+1639237757590:create screening "Spirited Away" Girotti "2021-03-15 18:39"
+1639237757837:list screenings
+1639237765976:sign in privileged admin admin
+1639237766219:create room Pedersoli 20 10
+1639237766470:create room Girotti 10 10
+1639237766756:create movie Sátántangó drama 450
+1639237767008:create movie "Spirited Away" animation 125
+1639237767263:sign out
+1639237767518:sign in privileged admin admin
+1639237767796:create screening "Spirited Away" Pedersoli "2021-03-14 16:00"
+1639237768044:delete screening "Spirited Away" Pedersoli "2021-03-14 16:00"
+1639237768306:list screenings
+1639237853792:sign in privileged admin admin
+1639237854036:describe account
+1639237860062:sign in privileged admin admin
+1639237860300:sign out
+1639237860566:describe account
+1639237866495:sign in privileged admin asdQWE123
+1639237866948:describe account
+1639237872901:sign in privileged admin admin
+1639237873151:create movie Sátántangó drama 450
+1639237873418:list movies
+1639237879256:sign in privileged admin admin
+1639237879518:create movie Sátántangó dram 450
+1639237879769:update movie Sátántangó drama 450
+1639237880019:list movies
+1639237887181:sign in privileged admin admin
+1639237887441:create movie Sátántangó drama 450
+1639237887704:delete movie Sátántangó
+1639237887970:list movies
+1639237894331:sign in privileged admin admin
+1639237894580:create movie Sátántangó drama 450
+1639237894831:sign out
+1639237895097:list movies
+1639237901042:sign in privileged admin admin
+1639237901299:create room Pedersoli 20 10
+1639237901559:list rooms
+1639237907548:sign in privileged admin admin
+1639237907805:create room Pedersoli 20 10
+1639237908075:update room Pedersoli 10 10
+1639237908329:list rooms
+1639237914295:sign in privileged admin admin
+1639237914555:create room Pedersoli 20 10
+1639237914826:delete room Pedersoli
+1639237915086:list rooms
+1639237921001:sign in privileged admin admin
+1639237921250:create room Pedersoli 20 10
+1639237921515:sign out
+1639237921778:list rooms
+1639237928080:sign in privileged admin admin
+1639237928320:create room Pedersoli 20 10
+1639237928578:create room Girotti 10 10
+1639237928850:create movie Sátántangó drama 450
+1639237929105:create movie "Spirited Away" animation 125
+1639237929341:sign out
+1639237929608:sign in privileged admin admin
+1639237929880:create screening Sátántangó Pedersoli "2021-03-15 10:45"
+1639237930135:create screening "Spirited Away" Pedersoli "2021-03-14 16:00"
+1639237930386:list screenings
+1639237936507:sign in privileged admin admin
+1639237936748:create room Pedersoli 20 10
+1639237937007:create room Girotti 10 10
+1639237937276:create movie Sátántangó drama 450
+1639237937531:create movie "Spirited Away" animation 125
+1639237937780:sign out
+1639237938051:sign in privileged admin admin
+1639237938328:create screening Sátántangó Pedersoli "2021-03-15 10:45"
+1639237938593:create screening "Spirited Away" Pedersoli "2021-03-15 10:50"
+1639237938868:list screenings
+1639237944702:sign in privileged admin admin
+1639237944942:create room Pedersoli 20 10
+1639237945216:create room Girotti 10 10
+1639237945484:create movie Sátántangó drama 450
+1639237945754:create movie "Spirited Away" animation 125
+1639237946001:sign out
+1639237946277:sign in privileged admin admin
+1639237946542:create screening Sátántangó Pedersoli "2021-03-15 10:45"
+1639237946818:create screening "Spirited Away" Girotti "2021-03-15 10:50"
+1639237947063:list screenings
+1639237953079:sign in privileged admin admin
+1639237953320:create room Pedersoli 20 10
+1639237953590:create room Girotti 10 10
+1639237953862:create movie Sátántangó drama 450
+1639237954120:create movie "Spirited Away" animation 125
+1639237954362:sign out
+1639237954630:sign in privileged admin admin
+1639237954884:create screening Sátántangó Pedersoli "2021-03-15 11:00"
+1639237955171:create screening "Spirited Away" Pedersoli "2021-03-15 18:39"
+1639237955446:list screenings
+1639237961230:sign in privileged admin admin
+1639237961479:create room Pedersoli 20 10
+1639237961752:create room Girotti 10 10
+1639237962020:create movie Sátántangó drama 450
+1639237962289:create movie "Spirited Away" animation 125
+1639237962534:sign out
+1639237962809:sign in privileged admin admin
+1639237963083:create screening Sátántangó Pedersoli "2021-03-15 11:00"
+1639237963332:create screening "Spirited Away" Girotti "2021-03-15 18:39"
+1639237963593:list screenings
+1639237969483:sign in privileged admin admin
+1639237969717:create room Pedersoli 20 10
+1639237969979:create room Girotti 10 10
+1639237970249:create movie Sátántangó drama 450
+1639237970516:create movie "Spirited Away" animation 125
+1639237970764:sign out
+1639237971030:sign in privileged admin admin
+1639237971300:create screening "Spirited Away" Pedersoli "2021-03-14 16:00"
+1639237971571:delete screening "Spirited Away" Pedersoli "2021-03-14 16:00"
+1639237971818:list screenings
