@@ -40,19 +40,4 @@ public class ScreeningId implements Serializable {
     public Date getStartTime() {
         return startTime;
     }
-
-    //TODO: ha kell ezt a kommentet visszavoni, vagy ha nem akkor equals és hash-et törölni
-/*
-    @Override
-    public boolean equals(Object o) {
-        if (this == o) return true;
-        if (o == null || getClass() != o.getClass()) return false;
-        ScreeningId that = (ScreeningId) o;
-        return Objects.equals(movieTitle, that.movieTitle) && Objects.equals(roomName, that.roomName) && Objects.equals(startTime, that.startTime);
-    }
-
-    @Override
-    public int hashCode() {
-        return Objects.hash(movieTitle, roomName, startTime);
-    }*/
 }
